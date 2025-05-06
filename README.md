@@ -61,3 +61,5 @@ You can change the processing method in `main.py`:
 - Adjust HSV ranges to match different team jerseys
 - Modify kernel sizes for blurring/morphology
 - Use different input images
+📄 License
+This project is created for educational purposes only.
