@@ -18,7 +18,6 @@ This project focuses on **image processing in football (soccer)** using Python a
 
 ```
 main.py        # Main script to process football images
-images/        # Folder with example football images (add your own)
 output/        # Folder where processed images will be saved
 ```
 
@@ -62,11 +61,3 @@ You can change the processing method in `main.py`:
 - Adjust HSV ranges to match different team jerseys
 - Modify kernel sizes for blurring/morphology
 - Use different input images
-
-## 🧑‍💻 Author
-
-- Your Name (e.g., Nguyễn Văn A)
-
-## 📄 License
-
-Open source under the [MIT License](https://opensource.org/licenses/MIT).
